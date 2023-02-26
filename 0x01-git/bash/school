@@ -1,1 +1,2 @@
-line1 n line 2
+#!/bin/bash 
+ echo School 
